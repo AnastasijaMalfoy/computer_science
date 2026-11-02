@@ -1,1 +1,12 @@
 
+test 1 - Good but you needed to do all the comparisons
+
+test 2 - Great
+
+test 3 - you need to learn this. It's in the pdf Operators in Python - Housekeeping.
+
+test 4 - great
+
+test 5 - could you do this again
+
+test 6 and 7 - can you do these
